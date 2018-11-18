@@ -18,7 +18,7 @@ Fields:
 
 For optional fields just use an empty string: for example if you don't want to use your real name, use:
 
-`,myNickname,0,0,http://twitter.com/myNickname,twitter`.
+`,myNickname,0,0,http://twitter.com/myNickname,twitter,,`
 
 ## How to find your location
 
