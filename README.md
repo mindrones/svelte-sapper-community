@@ -1,6 +1,6 @@
 # [Svelte/Sapper community map](https://mindrones.github.io/svelte-sapper-community/)
 
-Map of the [[https://svelte.technology|Svelte]]/[[https://sapper.svelte.technology/|Sapper]] community.
+Map of the [Sapper](https://svelte.technology)/[Sapper](https://sapper.svelte.technology) community.
 
 ## How to add/remove yourself to the map
 
